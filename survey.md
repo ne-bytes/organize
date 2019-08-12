@@ -31,3 +31,4 @@ any other comments on the group generally
 
 If you want to get in touch, have speaker suggestions or interested in presenting or helping out please tweet at ... or send a message to @
 
+We hope to see you at another event soon.
