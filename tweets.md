@@ -1,3 +1,6 @@
+RSVPs now open for our next meeting: @person talking about subject
+link to event
+
 Tuesday's talk from @person is now full. There is a waiting list. Please RSVP ... 
 link to event.
 
