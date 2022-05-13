@@ -6,10 +6,10 @@ Title with Speaker Full Name - Date of Talk
 
 ## Description
 
-Upcoming Events: https://ti.to/ne-bytes
-Follow Us on Twitter: https://twitter.com/NEBytes
+* Upcoming Events: https://ti.to/ne-bytes
+* Follow Us on Twitter: https://twitter.com/NEBytes
 
-Paragraph of Talk Blub
+Paragraph of Talk Blurb
 
 About Speaker
 
